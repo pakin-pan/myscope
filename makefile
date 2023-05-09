@@ -1,4 +1,4 @@
-DEPS= Philly
+DEPS= Phil
 compile: main.c 
 	 gcc main.c -o $(DEPS)
 
